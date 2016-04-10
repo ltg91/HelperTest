@@ -52,6 +52,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void btnNewButtonClicked(View v){
-        textView.setText("버튼클릭");
+        textView.setText("btnClicked");
     }
 }
